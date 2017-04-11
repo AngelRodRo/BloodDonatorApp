@@ -13,6 +13,4 @@ npm start server
 
 ```
 npm run test
-
- 
 ```
