@@ -1,3 +1,7 @@
+## Blood Donator App
+
+The project is about an app that allow people search a donnor of blood around of position.
+
 
 ## Initialize project
 
