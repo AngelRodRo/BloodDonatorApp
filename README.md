@@ -18,3 +18,6 @@ npm start server
 ```
 npm run test
 ```
+## Run seeders
+
+npm run seed
