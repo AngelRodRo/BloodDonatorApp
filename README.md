@@ -1,3 +1,5 @@
+# Blood Donator App
+
 ## Synopsis
 
 The project is about an app that allow people search a donnor of blood around of position.
@@ -22,11 +24,6 @@ npm run build
 npm start server
 ```
 
-### Run tests
-
-```
-npm run test
-```
 ### Run seeders
 
 ```
@@ -41,15 +38,16 @@ Depending on the size of the project, if it is small and simple enough the refer
 
 Describe and show how to run the tests with code examples.
 
-## Contributors
+### Run tests
 
-Let people know how they can dive into the project, include important links to things like issue trackers, irc, twitter accounts if applicable.
+```
+npm run test
+```
 
 ## License
 
 A short snippet describing the license (MIT, Apache, etc.)
 
-## Blood Donator App
 
 
 
