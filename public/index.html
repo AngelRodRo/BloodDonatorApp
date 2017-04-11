@@ -1,0 +1,35 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="shortcut icon" href="%PUBLIC_URL%/favicon.ico">
+    <link rel="stylesheet" type="text/css" href="bower_components/sweetalert/dist/sweetalert.css">
+    <link rel="stylesheet" href="https://js.arcgis.com/3.20/esri/css/esri.css">
+    <link rel="stylesheet" type="text/css" href="bower_components/fakeLoader/fakeLoader.css">
+    <link rel="stylesheet" type="text/css" href="theme.min.css">
+    <style type="text/css">
+      .navbar-inverse {
+          background-color: #428bca;
+      }
+      .modal-header{
+        background: #428bca;
+        color: white;
+      }
+    </style>
+    <title>Blood Donators App</title>
+  </head>
+  <body>
+    <div id="fakeLoader"></div>
+    <div id="root"></div>
+    <script type="text/javascript" src="bower_components/jquery/dist/jquery.min.js"></script>
+    <script type="text/javascript" src="bower_components/fakeLoader/fakeLoader.min.js"></script>
+    <script type="text/javascript">
+        $("#fakeLoader").fakeLoader({
+            timeToHide:1200,
+            bgColor:"#3498db",
+            spinner:"spinner4"
+        });
+    </script>
+  </body>
+</html>
