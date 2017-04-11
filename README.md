@@ -12,7 +12,7 @@ A short description of the motivation behind the creation and maintenance of the
 
 ## Installation
 
-## Initialize project
+### Initialize project
 
 After creation, your project should look like this:
 
@@ -22,14 +22,16 @@ npm run build
 npm start server
 ```
 
-## Run tests
+### Run tests
 
 ```
 npm run test
 ```
-## Run seeders
+### Run seeders
 
+```
 npm run seed
+```
 
 ## API Reference
 
